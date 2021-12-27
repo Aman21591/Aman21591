@@ -6,7 +6,7 @@ HTML, CSS, React, C, C++, Python
 
 🔭 I'm currently working on Web Development and Accessibility
 
-🌱 I'm currently learning JavaScript, Go.
+🌱 I'm currently learning JavaScript.
 
 📫 E-mail : yadavaman21591@gmail.com / 19BCS2461@CUCHD.IN
 
