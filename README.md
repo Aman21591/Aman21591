@@ -2,11 +2,11 @@
 
 🛠 Skills
 
-HTML, CSS, React, C, C++, Python
+HTML, CSS, React, C, C++, JavaScript, NodeJs, NextJs
 
 🔭 I'm currently working on Web Development and Accessibility
 
-🌱 I'm currently learning JavaScript.
+🌱 I'm currently learning Python.
 
 📫 E-mail : yadavaman21591@gmail.com / 19BCS2461@CUCHD.IN
 
