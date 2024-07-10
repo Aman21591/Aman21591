@@ -8,7 +8,7 @@ HTML, CSS, React, C, C++, JavaScript, NodeJs, NextJs
 
 🌱 I'm currently learning Python.
 
-📫 E-mail : yadavaman21591@gmail.com / 19BCS2461@CUCHD.IN
+📫 E-mail : yadavaman21591@gmail.com
 
 🔗 Links
 
